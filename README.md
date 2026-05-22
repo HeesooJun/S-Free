@@ -72,7 +72,6 @@
 | 🗓️ **진행 기간** | 2026.04.13 ~ 2026.05.19 |
 | 💻 **플랫폼** | Web, Android Mobile, Galaxy Watch 연동, IoT Display, Local PC Bridge |
 | 👥 **개발 인원** | 7명 |
-| 🏢 **기관** |  청년 SW·AI 아카데미  14기 |
 | 🧩 **프로젝트 형태** | Monorepo(한 저장소 안에 frontend, backend, ai, mobile, bridge, docker를 함께 관리) |
 
 <br/>
