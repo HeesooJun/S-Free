@@ -5,10 +5,6 @@
 
 ---
 
-<p align="center">
-  <b> 14기 자율 프로젝트</b>
-</p>
-
 <br/>
 
 <p align="center">
