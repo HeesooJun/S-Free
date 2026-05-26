@@ -5,6 +5,10 @@
 
 ---
 
+<p align="center">
+  <b>SSAFY 14기 자율 프로젝트</b>
+</p>
+
 <br/>
 
 <p align="center">
@@ -68,6 +72,7 @@
 | 🗓️ **진행 기간** | 2026.04.13 ~ 2026.05.19 |
 | 💻 **플랫폼** | Web, Android Mobile, Galaxy Watch 연동, IoT Display, Local PC Bridge |
 | 👥 **개발 인원** | 7명 |
+| 🏢 **기관** | 삼성 청년 SW·AI 아카데미 SSAFY 14기 |
 | 🧩 **프로젝트 형태** | Monorepo(한 저장소 안에 frontend, backend, ai, mobile, bridge, docker를 함께 관리) |
 
 <br/>
@@ -143,6 +148,82 @@ HeyGent는 이 문제를 "대화형 AI"가 아니라 "AI 작업 실행 플랫폼
 </table>
 
 <br/>
+
+  ## 🎬 기능 데모 <a id="demo"></a>
+
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/로그인_페이지.gif" width="280" alt="로그인 페이지"><br/>
+        <sub><b>로그인 페이지</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/카카오_로그인.gif" width="280" alt="새 채팅"><br/>
+        <sub><b>카카오 로그인</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/dashboard.gif" width="280" alt="대시보드"><br/>
+        <sub><b>대시보드 및 대화 세션</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/workboard/입력.gif" width="280" alt="작업 입력"><br/>
+        <sub><b>작업 입력</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/agent_config.gif" width="280" alt="에이전트 스킬 및 세부 설정"><br/>
+        <sub><b>에이전트 스킬 및 세부 설정</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/workboard/댓글.gif" width="280" alt="댓글 등록"><br/>
+        <sub><b>댓글 등록</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/워크플로우제작_GIF.gif" width="280" alt="워크플로우 설계"><br/>
+        <sub><b>워크플로우 설계</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/루틴등록_GIF.gif" width="280" alt="워크플로우 루틴 등록"><br/>
+        <sub><b>워크플로우 루틴 등록</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/workboard/답변완료.gif" width="280" alt="작업 상태 변경"><br/>
+        <sub><b>작업 상태 변경</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/GMAIL및MM.gif" width="280" alt="GMAIL및MM"><br/>
+        <sub><b>GMAIL 및 MM 연동(외부 서비스)</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/노션.gif" width="280" alt="노션"><br/>
+        <sub><b>노션 연동(외부 서비스)</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/API키.gif" width="280" alt="API키"><br/>
+        <sub><b>API 키 입력</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/사무실_에이전트_시각화.gif" width="280" alt="사무실 에이전트 실시간 시각화"><br/>
+        <sub><b>사무실 에이전트 실시간 시각화</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/건물_층간_탐색.gif" width="280" alt="건물 층간 세션 탐색"><br/>
+        <sub><b>건물 층간 세션 탐색</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="docs/image/demo/로컬_브릿지_페어링.gif" width="280" alt="로컬 브릿지 연결"><br/>
+        <sub><b>로컬 브릿지 연결</b></sub>
+      </td>
+    </tr>
+  </table>
+
 
 ## 📂 프로젝트 구조 <a id="structure"></a>
 
